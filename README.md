@@ -31,7 +31,7 @@
 - [Explore the Deployment video on Lambda GPU](https://www.youtube.com/watch?v=1M_WZ35WaPs)
 
 ### Anomaly Detection in Time Series Medical devices Signal
-![Laparoscopic Stapler fault signal](/assets/plot4.eps)
+![Laparoscopic Stapler fault signal](/assets/plot4.png)
 - Enhanced medical device (surgical staplers) failure prediction by 25% and decreased operational downtime by 20% by integrating machine learning algorithms. These improvements led to more accurate equipment failure predictions and reduced operational interruptions.
 - Determined the most effective generative model for fault detection by assessing Variational Autoencoder (97%), Generative Adversarial Network (95%), and Hidden Markov Model (82%), resulting in enhanced fault detection in 6 months.
   
