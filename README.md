@@ -40,7 +40,6 @@
 - Determined the most effective generative model for fault detection by assessing Variational Autoencoder (97%), Generative Adversarial Network (95%), and Hidden Markov Model (82%), resulting in enhanced fault detection in 6 months.
   
 ### Automated Chest X-Ray Analysis for Pneumonia Detection
-![Laparoscopic Stapler fault signal](/assets/plot4.eps)
 - Enhanced image processing algorithm to extract nm level information from scientific imaging equipment, improving precision by 20%, optimizing engineering processes.
 - Developed a user-friendly web interface for real-time medical image analysis using computer vision techniques, facilitating rapid assessment and treatment planning, contributing to potentially improved patient outcomes. Integrated layering techniques in image processing to refine diagnostic tools.
 - [Explore the Hugging Face Space](https://huggingface.co/spaces/barghavani/chest_x_ray_diagnose)
