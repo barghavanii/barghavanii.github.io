@@ -1,7 +1,11 @@
 # Data Scientist 
 
 ## Technical Skills
-- Python,Java, SQL, AWS, Natural Language Processing, Machine learning
+- Programming languages: Java, Python
+- Libraries and Frameworks: Keras, NL ​Toolkit, Numpy, Pandas, PySpark, PyTorch, Scikit-​learn, SciPy, Seaborn, TensorFlow
+- Machine learning: A/​B ​Testing, Algorithms, Anomaly ​Detection, Artificial ​intelligence, BERT, Big ​Data, BPE ​tokenizer, Computational ​Linguistics, Conversational ​AI, Data ​Engineering, - Data ​Mining, Data ​Modeling, Debugging, Deep ​Learning ​Methods, End-​point ​Deployment, Ensemble ​Methods, Generative ​AI, Generative ​model, Hypotheses ​testing, K-​means ​clustering, langchain ​, Language ​Model ​, Linear ​regression, Llama2, Logistic ​regression, Neural ​Networks, Quantization, Speech ​Recognition, Statistics, Supervised, Support ​Vector ​Machine ​(​SVM)​, Tagging, Text ​Classification, Text-​to-​Speech, Time ​series ​signal, Tokenization, Transformer ​models, Unsupervised, Wav2vec, word2vec, Word ​Embeddings
+- Cloud: API, AWS ​EC2, AWS ​EMR, AWS ​S3, AWS ​Sagemaker, Gradio
+- Databases: MongoDB, MySQL, NoSQL, SQLite
 
 ## Education
 - M.S., Data Science | The University of New Haven, May 2024
