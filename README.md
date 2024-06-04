@@ -13,7 +13,7 @@
 - Automated key performance metrics of the low-resource TTS evaluation system based on 5 ontologies, resulting in 40% faster evaluation times and 25% accuracy improvement by fine-tuning the wav2vec model for low-resource languages.
 - Enhanced AI/ML platform infrastructure and performance management by optimizing a large language model (LLM)-based text-to-speech system. Leveraged multi-GPU setups and advanced GPT training techniques, achieving a 20% faster convergence rate for the model
 - Automated the creation of a high-quality Text-to-Speech (TTS) dataset for a low-resource language using the latest open-source data quality tools, improving accessibility and speech synthesis by 12%. This process enhanced user experience and broadened product reach.
-- ![XTTS_Persian](/assets/XTTS SVG.jpeg)
+![XTTS_Persian](/assets/XTTS SVG.png)
 
 ### Data Analyst @ Maadiran Industries Group, TCL Exclusive Home Appliance representative (December 2017 - January 2022)
 - Developed and managed budgets to optimize business metrics, automated workflows, and monitored Key Performance Indicators (KPIs), resulting in a 25% increase in on-time delivery and $80,000 reduction in quarterly shipping costs.
