@@ -1,34 +1,58 @@
-# Data Scientist Portfolio
+# Data Scientist 
 
 ## Technical Skills
-- Python, SQL, AWS, Snowflake, MATLAB
+- Python,Java, SQL, AWS, Natural Language Processing, Machine learning
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas, May 2022
-- M.S., Physics | The University of Texas at Dallas, December 2019
-- B.S., Physics | The University of Texas at Dallas, May 2017
+- M.S., Data Science | The University of New Haven, May 2024
+- B.S., Computer Science | The University of Kharazmi, September 2016
 
 ## Work Experience
-### Data Scientist @ Toyota Financial Services (June 2022 - Present)
-- Improved data pipeline accuracy, significantly impacting active accounts.
-- Enhanced loan origination models, doubling performance metrics.
+### Graduate Research Assistant @ University of New Haven (October 2022 - May 2024)
+- Integrated and deployed a Large Language Model (LLM) based on state-of-the-art TTS for low resource languages, achieving an exceptional Mean Opinion Score (MOS) of 4.2 out of 5 across multiple low resource languages.
+- Automated key performance metrics of the low-resource TTS evaluation system based on 5 ontologies, resulting in 40% faster evaluation times and 25% accuracy improvement by fine-tuning the wav2vec model for low-resource languages.
+- Enhanced AI/ML platform infrastructure and performance management by optimizing a large language model (LLM)-based text-to-speech system. Leveraged multi-GPU setups and advanced GPT training techniques, achieving a 20% faster convergence rate for the model
+- Automated the creation of a high-quality Text-to-Speech (TTS) dataset for a low-resource language using the latest open-source data quality tools, improving accessibility and speech synthesis by 12%. This process enhanced user experience and broadened product reach.
+- 
 
-### Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
-- Led a biometrics-based study impacting human performance in training scenarios.
-- Employed deep learning to identify new sepsis sub-phenotypes in ICU data.
+### Data Analyst @ Maadiran Industries Group, TCL Exclusive Home Appliance representative (December 2017 - January 2022)
+- Developed and managed budgets to optimize business metrics, automated workflows, and monitored Key Performance Indicators (KPIs), resulting in a 25% increase in on-time delivery and $80,000 reduction in quarterly shipping costs.
+
+- Improved technical and non-technical key stakeholders' decision-making efficiency by 20% through statistical methods, Python, analytics software, and data visualization tools, resulting in enhanced business strategy, provided technical solutions for business problems, and meaningful insights.
+- Enhanced query performance through strategic optimization techniques, including setting efficient indexes, separating log files from data files, and implementing various other optimization methods.
+- Effectively trained customers in financial systems, resulting in a significant increase in employees' knowledge and a 20% improvement in software usage efficiency.
+
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-- Developed a method to identify EEG bands that enhance brain activity analysis.
+### NLP Multilingual Teacher Assistant Chatbot
+- Developed a scalable, real-time, API Gateway-integrated, multi-modal end-to-end data pipeline that handles speech prompts in Persian, English, and Hindi. Utilized OpenAI's embedding technology for creating Vector DB and the Whisper model for converting speech to text, enhancing data security and improving information retrieval.
+- Implemented and deployed the entire pipeline to operate seamlessly across multiple languages and integrates robustly with Gradio, providing a scalable, cost-effective chatbot service that supports new features development and significantly drives growth.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations
-- Analyzed the relationship between biometric variables and particulate matter concentrations.
+### Anomaly Detection in Time Series Medical devices Signal
+- Enhanced medical device (surgical staplers) failure prediction by 25% and decreased operational downtime by 20% by integrating machine learning algorithms. These improvements led to more accurate equipment failure predictions and reduced operational interruptions.
+- Determined the most effective generative model for fault detection by assessing Variational Autoencoder (97%), Generative Adversarial Network (95%), and Hidden Markov Model (82%), resulting in enhanced fault detection in 6 months.
+  
+### Automated Chest X-Ray Analysis for Pneumonia Detection
+- Enhanced image processing algorithm to extract nm level information from scientific imaging equipment, improving precision by 20%, optimizing engineering processes.
+- Developed a user-friendly web interface for real-time medical image analysis using computer vision techniques, facilitating rapid assessment and treatment planning, contributing to potentially improved patient outcomes. Integrated layering techniques in image processing to refine diagnostic tools.
+  
+### Malware classification of PE Files by help of Feature Extraction and Deep learning models
+- Deployed a PE file classification model on AWS SageMaker for easy client access, incorporating DevOps practices for simplified interaction with the model and ensuring a seamless user experience.
+- Developed and deployed forecasting modeling using CNN and Random Forest classifiers on unstructured large-scale datasets (PE files) to achieve 95% accuracy. Created a dashboard for monitoring model performance and accuracy.
+### Resume-analytics
+- Developed scalable AI algorithms and models, leading to a 40% improvement in model deployment time and enhancing overall business performance.
+- Spearheaded the development of an AI-powered resume parsing tool utilizing OpenAI's GPT-3.5 model in 5 days.
+- Developed and implemented a user-friendly web interface with Gradio to facilitate seamless resume parsing. Utilized advanced construction methods to optimize code generation and content creation, ensuring alignment with project objectives and providing actionable recommendations for improvement.
 
-## Talks & Lectures
-- Presented on causality, dimensionality reduction, and scientific computing at various seminars and lectures.
+
+## Awards & Scholarship
+- 2023-2024 TCoE Endowed Graduate Fellowship, recognizing excellence in technology and engineering research.
 
 ## Publications
-- Listed several key publications related to machine learning applications in environmental and health sciences.
+- Comparative Study of Generative Models for Early Detection of Failures in Medical Devices, Conference ICMHI 2024.
+
+## Volunteering  & Leadership 
+- Data science club University of New Haven
 
 ## About
 This portfolio is a collection of my work as a data scientist, showcasing projects, talks, and research achievements. Explore to find out more about my professional journey and contributions to data science.
