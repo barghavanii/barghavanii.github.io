@@ -1,4 +1,5 @@
-title: Bahareh Arghavani Nobar
-logo: /assets/IMG_8196 2.jpg
+title: Shaw Talebi
+logo: /assets/img/headshot_circle.png
+#description: text below image
 show_downloads: true
-theme : jakyll-theme-minimal
+theme: jekyll-theme-minimal
