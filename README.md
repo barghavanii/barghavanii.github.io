@@ -13,7 +13,7 @@
 - Automated key performance metrics of the low-resource TTS evaluation system based on 5 ontologies, resulting in 40% faster evaluation times and 25% accuracy improvement by fine-tuning the wav2vec model for low-resource languages.
 - Enhanced AI/ML platform infrastructure and performance management by optimizing a large language model (LLM)-based text-to-speech system. Leveraged multi-GPU setups and advanced GPT training techniques, achieving a 20% faster convergence rate for the model
 - Automated the creation of a high-quality Text-to-Speech (TTS) dataset for a low-resource language using the latest open-source data quality tools, improving accessibility and speech synthesis by 12%. This process enhanced user experience and broadened product reach.
-
+- ![XTTS_Persian](/assets/XTTS SVG.png)
 
 ### Data Analyst @ Maadiran Industries Group, TCL Exclusive Home Appliance representative (December 2017 - January 2022)
 - Developed and managed budgets to optimize business metrics, automated workflows, and monitored Key Performance Indicators (KPIs), resulting in a 25% increase in on-time delivery and $80,000 reduction in quarterly shipping costs.
@@ -31,7 +31,7 @@
 - [Explore the Deployment video on Lambda GPU](https://www.youtube.com/watch?v=1M_WZ35WaPs)
 
 ### Anomaly Detection in Time Series Medical devices Signal
-![Laparoscopic Stapler fault signal](/assets/plot4.png)
+![Laparoscopic Stapler fault signal](/assets/Screen Shot 2024-06-04 at 2.22.38 PM.png)
 - Enhanced medical device (surgical staplers) failure prediction by 25% and decreased operational downtime by 20% by integrating machine learning algorithms. These improvements led to more accurate equipment failure predictions and reduced operational interruptions.
 - Determined the most effective generative model for fault detection by assessing Variational Autoencoder (97%), Generative Adversarial Network (95%), and Hidden Markov Model (82%), resulting in enhanced fault detection in 6 months.
   
