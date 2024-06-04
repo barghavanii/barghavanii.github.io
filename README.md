@@ -68,3 +68,10 @@
 
 ## About
 Experienced Machine Learning (ML) engineer with over 5 years of expertise in data analysis, optimization, and research in Generative AI. Continuously learning to stay abreast of the latest trends in data science. Notable projects include developing generative models for fault detection in medical devices, achieving 97% accuracy, and enhancing a multilingual transformer-based Text-to-Speech (TTS) system for low-resource languages, which achieved a mean opinion score of 4.2 out of 5 in 6 months through innovative approaches. Led brainstorming sessions to identify new opportunities in testing automation, reducing testing time by 40%. Implemented and maintained a speech conversation chatbot, improving user experience by 40% through effective MLOps deployment and management.
+## Contact Information
+- **Mobile:** +1-860-944-5353
+- **Email:** [bahareh.arghavani@gmail.com](mailto:bahareh.arghavani@gmail.com)
+- **LinkedIn:** [Bahareh Arghavani Nobar](https://www.linkedin.com/in/bahareh-arghavan/)
+- **Hugging Face Space:** [Visit my Hugging Face Space](https://huggingface.co/barghavani)
+
+Feel free to reach out for collaborations or inquiries!
