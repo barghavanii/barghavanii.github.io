@@ -35,14 +35,6 @@
 - [Explore the Deployment video on Lambda GPU](https://www.youtube.com/watch?v=1M_WZ35WaPs)
   
 ### Freight Forecasting and Delivery Schedule Optimization
-#### Summary of Findings
-
-| **Model** | **Objective**                         | **Target Variable**        | **Model Architecture**          | **Performance Metric** | **Training RMSE** | **Test RMSE**      | **Benchmark RMSE** |
-|-----------|---------------------------------------|----------------------------|---------------------------------|------------------------|-------------------|--------------------|--------------------|
-| DNN       | Optimize delivery schedules           | Schedule v Actual          | Dense Neural Network (4 layers) | RMSE                   | 22.86             | 25.88              | 29.22            |
-| LSTM      | Forecast monthly freight costs        | Freight Cost (USD)         | LSTM Network (1 LSTM layer)     | RMSE                   | 292287.38 | 529783.7       | 861773.48        |
-| ARIMA     | Forecast monthly freight costs        | Freight Cost (USD)         | ARIMA (2,1,2)                   | RMSE                   | 323737.57         | 565322.23          | 861773.48        |
-
 Feature Engineering and Model Development:
 
 - Conducted extensive feature engineering and extraction on unstructured data, preparing it for machine learning models through data wrangling and cleaning.
@@ -52,6 +44,13 @@ Performance Improvement and Optimization:
 
 - Achieved significant performance improvements in forecasting monthly freight costs and optimizing delivery schedules, surpassing naive benchmarks and enhancing prediction accuracy.
 - Optimized the delivery schedule by accurately predicting deviations between scheduled and actual delivery times, leading to more efficient logistics and operational planning.
+#### Summary of Findings
+
+| **Model** | **Objective**                         | **Target Variable**        | **Model Architecture**          | **Performance Metric** | **Training RMSE** | **Test RMSE**      | **Benchmark RMSE** |
+|-----------|---------------------------------------|----------------------------|---------------------------------|------------------------|-------------------|--------------------|--------------------|
+| DNN       | Optimize delivery schedules           | Schedule v Actual          | Dense Neural Network (4 layers) | RMSE                   | 22.86             | 25.88              | 29.22            |
+| LSTM      | Forecast monthly freight costs        | Freight Cost (USD)         | LSTM Network (1 LSTM layer)     | RMSE                   | 292287.38 | 529783.7       | 861773.48        |
+| ARIMA     | Forecast monthly freight costs        | Freight Cost (USD)         | ARIMA (2,1,2)                   | RMSE                   | 323737.57         | 565322.23          | 861773.48        |
   
 ### Anomaly Detection in Time Series Medical devices Signal
 ![Laparoscopic Stapler fault signal](/assets/fault.jpeg)
