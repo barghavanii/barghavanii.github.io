@@ -33,7 +33,26 @@
 - Developed a scalable, real-time, API Gateway-integrated, multi-modal end-to-end data pipeline that handles speech prompts in Persian, English, and Hindi. Utilized OpenAI's embedding technology for creating Vector DB and the Whisper model for converting speech to text, enhancing data security and improving information retrieval.
 - Implemented and deployed the entire pipeline to operate seamlessly across multiple languages and integrates robustly with Gradio, providing a scalable, cost-effective chatbot service that supports new features development and significantly drives growth.
 - [Explore the Deployment video on Lambda GPU](https://www.youtube.com/watch?v=1M_WZ35WaPs)
+  
+### Freight Forecasting and Delivery Schedule Optimization
+#### Summary of Findings
 
+| **Model** | **Objective**                         | **Target Variable**        | **Model Architecture**          | **Performance Metric** | **Training RMSE** | **Test RMSE**      | **Benchmark RMSE** |
+|-----------|---------------------------------------|----------------------------|---------------------------------|------------------------|-------------------|--------------------|--------------------|
+| DNN       | Optimize delivery schedules           | Schedule v Actual          | Dense Neural Network (4 layers) | RMSE                   | 22.86             | 25.88              | 29.22            |
+| LSTM      | Forecast monthly freight costs        | Freight Cost (USD)         | LSTM Network (1 LSTM layer)     | RMSE                   | 292287.38 | 529783.7       | 861773.48        |
+| ARIMA     | Forecast monthly freight costs        | Freight Cost (USD)         | ARIMA (2,1,2)                   | RMSE                   | 323737.57         | 565322.23          | 861773.48        |
+
+Feature Engineering and Model Development:
+
+- Conducted extensive feature engineering and extraction on unstructured data, preparing it for machine learning models through data wrangling and cleaning.
+- Applied three machine learning algorithms: ARIMA and LSTM for freight forecasting, and a Dense Neural Network (DNN) for optimizing delivery schedules. This included designing and implementing the model architectures, training the models, and evaluating their performance.
+  
+Performance Improvement and Optimization:
+
+- Achieved significant performance improvements in forecasting monthly freight costs and optimizing delivery schedules, surpassing naive benchmarks and enhancing prediction accuracy.
+- Optimized the delivery schedule by accurately predicting deviations between scheduled and actual delivery times, leading to more efficient logistics and operational planning.
+  
 ### Anomaly Detection in Time Series Medical devices Signal
 ![Laparoscopic Stapler fault signal](/assets/fault.jpeg)
 - Enhanced medical device (surgical staplers) failure prediction by 25% and decreased operational downtime by 20% by integrating machine learning algorithms. These improvements led to more accurate equipment failure predictions and reduced operational interruptions.
