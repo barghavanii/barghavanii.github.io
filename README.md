@@ -61,6 +61,8 @@
 [Explore the Hugging Face Space](https://huggingface.co/spaces/barghavani/chest_x_ray_diagnose)
   
 ### Malware classification of PE Files by help of Feature Extraction and Deep learning models
+
+- Vectorize PE Files: Convert PE files into numerical vectors by extracting and counting the frequency of n-grams (byte sequences), then combine these n-gram frequency features with additional features derived from the PE file's metadata (DLL imports and section names), and vectorize the text data using HashingVectorizer and TfidfTransformer.
 - Deployed a PE file classification model on AWS SageMaker for easy client access, incorporating DevOps practices for simplified interaction with the model and ensuring a seamless user experience.
 - Developed and deployed forecasting modeling using CNN and Random Forest classifiers on unstructured large-scale datasets (PE files) to achieve 95% accuracy. Created a dashboard for monitoring model performance and accuracy.
   
