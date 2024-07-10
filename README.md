@@ -92,5 +92,6 @@ Experienced Machine Learning (ML) engineer with over 5 years of expertise in dat
 - **Email:** [bahareh.arghavani@gmail.com](mailto:bahareh.arghavani@gmail.com)
 - **LinkedIn:** [Bahareh Arghavani Nobar](https://www.linkedin.com/in/bahareh-arghavan/)
 - **Hugging Face Space:** [Visit my Hugging Face Space](https://huggingface.co/barghavani)
+-  **Github:** [https://github.com/barghavanii](https://github.com/barghavanii)
 
 Feel free to reach out for collaborations or inquiries!
