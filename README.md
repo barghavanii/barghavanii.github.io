@@ -34,7 +34,7 @@
 - Implemented and deployed the entire pipeline to operate seamlessly across multiple languages and integrates robustly with Gradio, providing a scalable, cost-effective chatbot service that supports new features development and significantly drives growth.
 - [Explore the Deployment video on Lambda GPU](https://www.youtube.com/watch?v=1M_WZ35WaPs)
   
-### Freight Forecasting and Delivery Schedule Optimization
+### AI-Driven Supply Chain Optimization for Pharmaceuticals
 - **Optimizing Delivery Schedules:** Utilized Dense Neural Networks (DNN) for predicting deviations between scheduled and actual delivery times, achieving a test RMSE of 22.84 compared to the benchmark RMSE of 29.22. Extensive feature engineering was performed on delivery times and schedules, with results visualized and presented on a Power BI dashboard for non-technical stakeholders.
 
 - **Forecasting Monthly Freight Costs:** Employed LSTM and ARIMA models to forecast monthly freight costs, with the LSTM model achieving a test RMSE of 529,783.70, significantly better than the naive benchmark RMSE of 861,773.48. Feature engineering and extraction from both structured and unstructured data were conducted, with findings visualized in Power BI.
