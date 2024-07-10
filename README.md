@@ -17,6 +17,7 @@
 - Automated key performance metrics of the low-resource TTS evaluation system based on 5 ontologies, resulting in 40% faster evaluation times and 25% accuracy improvement by fine-tuning the wav2vec model for low-resource languages.
 - Enhanced AI/ML platform infrastructure and performance management by optimizing a large language model (LLM)-based text-to-speech system. Leveraged multi-GPU setups and advanced GPT training techniques, achieving a 20% faster convergence rate for the model
 - Automated the creation of a high-quality Text-to-Speech (TTS) dataset for a low-resource language using the latest open-source data quality tools, improving accessibility and speech synthesis by 12%. This process enhanced user experience and broadened product reach.
+  
 ![XTTS_Persian](/assets/XTTSSVG.png)
 
 ### Data Analyst @ Maadiran Industries Group, TCL Exclusive Home Appliance representative (December 2017 - January 2022)
@@ -30,9 +31,11 @@
 ## Projects
 ### NLP Multilingual Teacher Assistant Chatbot
 ![Pipeline](/assets/4957A332-F9E6-43AC-887E-43E3C30D907B.jpeg)
+
 - Developed a scalable, real-time, API Gateway-integrated, multi-modal end-to-end data pipeline that handles speech prompts in Persian, English, and Hindi. Utilized OpenAI's embedding technology for creating Vector DB and the Whisper model for converting speech to text, enhancing data security and improving information retrieval.
 - Implemented and deployed the entire pipeline to operate seamlessly across multiple languages and integrates robustly with Gradio, providing a scalable, cost-effective chatbot service that supports new features development and significantly drives growth.
-- [Explore the Deployment video on Lambda GPU](https://www.youtube.com/watch?v=1M_WZ35WaPs)
+  
+[Explore the Deployment video on Lambda GPU](https://www.youtube.com/watch?v=1M_WZ35WaPs)
   
 ### AI-Driven Supply Chain Optimization for Pharmaceuticals
 - **Optimizing Delivery Schedules:** Utilized Dense Neural Networks (DNN) for predicting deviations between scheduled and actual delivery times, achieving a test RMSE of 22.84 compared to the benchmark RMSE of 29.22. Extensive feature engineering was performed on delivery times and schedules, with results visualized and presented on a Power BI dashboard for non-technical stakeholders.
@@ -54,17 +57,20 @@
 ### Automated Chest X-Ray Analysis for Pneumonia Detection
 - Enhanced image processing algorithm by fine-tuning ResNet-50, CNN, and transformer-based models to extract nanometer-level information, improving precision by 20%.
 - Developed a user-friendly web interface for real-time medical image analysis using computer vision techniques, facilitating rapid assessment and treatment planning.
+  
 [Explore the Hugging Face Space](https://huggingface.co/spaces/barghavani/chest_x_ray_diagnose)
   
 ### Malware classification of PE Files by help of Feature Extraction and Deep learning models
 - Deployed a PE file classification model on AWS SageMaker for easy client access, incorporating DevOps practices for simplified interaction with the model and ensuring a seamless user experience.
 - Developed and deployed forecasting modeling using CNN and Random Forest classifiers on unstructured large-scale datasets (PE files) to achieve 95% accuracy. Created a dashboard for monitoring model performance and accuracy.
+  
 - [Explore the Deployment video on AWS](https://youtu.be/q6CPYSwuuUM)
   
 ### Resume-analytics
 - Developed scalable AI algorithms and models, leading to a 40% improvement in model deployment time and enhancing overall business performance.
 - Spearheaded the development of an AI-powered resume parsing tool utilizing OpenAI's GPT-3.5 model in 5 days.
 - Developed and implemented a user-friendly web interface with Gradio to facilitate seamless resume parsing. Utilized advanced construction methods to optimize code generation and content creation, ensuring alignment with project objectives and providing actionable recommendations for improvement.
+  
 - [Explore the Hugging Face Space](https://huggingface.co/spaces/barghavani/Resume_ATS)
 
 
