@@ -35,15 +35,9 @@
 - [Explore the Deployment video on Lambda GPU](https://www.youtube.com/watch?v=1M_WZ35WaPs)
   
 ### Freight Forecasting and Delivery Schedule Optimization
-Feature Engineering and Model Development:
+- **Optimizing Delivery Schedules:** Utilized Dense Neural Networks (DNN) for predicting deviations between scheduled and actual delivery times, achieving a test RMSE of 22.84 compared to the benchmark RMSE of 29.22. Extensive feature engineering was performed on delivery times and schedules, with results visualized and presented on a Power BI dashboard for non-technical stakeholders.
 
-- Conducted extensive feature engineering and extraction on unstructured data, preparing it for machine learning models through data wrangling and cleaning.
-- Applied three machine learning algorithms: ARIMA and LSTM for freight forecasting, and a Dense Neural Network (DNN) for optimizing delivery schedules. This included designing and implementing the model architectures, training the models, and evaluating their performance.
-  
-Performance Improvement and Optimization:
-
-- Achieved significant performance improvements in forecasting monthly freight costs and optimizing delivery schedules, surpassing naive benchmarks and enhancing prediction accuracy.
-- Optimized the delivery schedule by accurately predicting deviations between scheduled and actual delivery times, leading to more efficient logistics and operational planning.
+- **Forecasting Monthly Freight Costs:** Employed LSTM and ARIMA models to forecast monthly freight costs, with the LSTM model achieving a test RMSE of 529,783.70, significantly better than the naive benchmark RMSE of 861,773.48. Feature engineering and extraction from both structured and unstructured data were conducted, with findings visualized in Power BI.
 #### Summary of Findings
 
 | **Model** | **Objective**                         | **Target Variable**        | **Model Architecture**          | **Performance Metric** | **Training RMSE** | **Test RMSE**      | **Benchmark RMSE** |
