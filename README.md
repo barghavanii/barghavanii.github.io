@@ -71,7 +71,8 @@
   - **Hold Signal:** Precision: 0.88, Recall: 0.90, F1-score: 0.89
 
 - **Conclusion:** The fine-tuned transformer model effectively predicts stock market actions, highlighting the potential of advanced deep learning techniques in financial analysis.
-
+For more details, visit the full repository: [Stock Recommendation with Transformer](https://github.com/barghavanii/Stock-recommendation-with-transformer-/tree/main)
+![Evaluation result](/assets/stock_transformer.jpeg)
 
 ### Anomaly Detection in Time Series Medical devices Signal
 ![Laparoscopic Stapler fault signal](/assets/fault.jpeg)
