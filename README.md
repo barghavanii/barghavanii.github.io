@@ -49,7 +49,7 @@
 | LSTM      | Forecast monthly freight costs        | Freight Cost (USD)         | LSTM Network (1 LSTM layer)     | RMSE                   | 292287.38 | 529783.7       | 861773.48        |
 | ARIMA     | Forecast monthly freight costs        | Freight Cost (USD)         | ARIMA (2,1,2)                   | RMSE                   | 323737.57         | 565322.23          | 861773.48        |
 
-### Stock Prediction with Fine-Tuned Transformer-Based Models
+### Stock Action Recommendation with Fine-Tuned Transformer-Based Models
 
 - **Objective:** Developed a transformer-based model to predict stock market actions (Buy, Sell, Hold) using historical price data and technical indicators, achieving a test accuracy of **0.89**.
 
