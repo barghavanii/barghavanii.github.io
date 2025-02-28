@@ -4,14 +4,21 @@
 - Programming languages: Java, Python
 - Libraries and Frameworks: Keras, NL ​Toolkit, Numpy, Pandas, PySpark, PyTorch, Scikit-​learn, SciPy, Seaborn, TensorFlow
 - Machine learning: A/​B ​Testing, Algorithms, Anomaly ​Detection, Artificial ​intelligence, BERT, Big ​Data, BPE ​tokenizer, Computational ​Linguistics, Conversational ​AI, Data ​Engineering, - Data ​Mining, Data ​Modeling, Debugging, Deep ​Learning ​Methods, End-​point ​Deployment, Ensemble ​Methods, Generative ​AI, Generative ​model, Hypotheses ​testing, K-​means ​clustering, langchain ​, Language ​Model ​, Linear ​regression, Llama2, Logistic ​regression, Neural ​Networks, Quantization, Speech ​Recognition, Statistics, Supervised, Support ​Vector ​Machine ​(​SVM)​, Tagging, Text ​Classification, Text-​to-​Speech, Time ​series ​signal, Tokenization, Transformer ​models, Unsupervised, Wav2vec, word2vec, Word ​Embeddings
-- Cloud: API, AWS ​EC2, AWS ​EMR, AWS ​S3, AWS ​Sagemaker, Gradio
-- Databases: MongoDB, MySQL, NoSQL, SQLite
+- Cloud: API, AWS ​EC2, AWS ​EMR, AWS ​S3, AWS ​Sagemaker,GCP, VertexAI, Gradio
+- Databases: MongoDB, MySQL, NoSQL, SQLite, PostgreSQL
 
 ## Education
 - M.S., Data Science | The University of New Haven, May 2024
 - B.S., Computer Science | The University of Kharazmi, September 2016
 
 ## Work Experience
+
+### Machine Learning Engineer @ FluteSpace (December 2024 - Present)
+- Automated high-quality dataset curation for medical speech-to-text using YouTube + Google Speech API, correcting errors with ChatGPT and prompt engineering, resulting in a clean 23-hour dataset.
+- Simulated radiology scenarios with LLM to collect 40 speaker references, using XTTS (latest Coqui TTS model) to generate 13 hours of diverse, accent-rich data by synthesizing audio with less than 10 seconds of speaker reference during inference.
+- Verified dataset quality using Word Error Rate (WER) analysis with Deepgram, fine-tuning Whisper large turbo and Whisper large v3 models, reducing WER by 23%.
+- Developed a Retrieval-Augmented Generation (RAG) system integrated with LLM and XTTS to create an advanced speech chatbot assistant.
+
 ### Graduate Research Assistant @ University of New Haven (October 2022 - May 2024)
 - Integrated and deployed a Large Language Model (LLM) based on state-of-the-art TTS for low resource languages, achieving an exceptional Mean Opinion Score (MOS) of 4.2 out of 5 across multiple low resource languages.
 - Automated key performance metrics of the low-resource TTS evaluation system based on 5 ontologies, resulting in 40% faster evaluation times and 25% accuracy improvement by fine-tuning the wav2vec model for low-resource languages.
@@ -29,6 +36,13 @@
 
 
 ## Projects
+
+### Multilingual Speech Chatbot
+**Evers Inc.** (09/2024 - 11/2024)
+- Developed models for a scalable, real-time, multi-modal end-to-end data pipeline that handles multilingual speech prompts, utilizing OpenAI's embedding technology for creating a Vector DB and the Whisper model for speech-to-text conversion, enhancing data security and improving information retrieval.
+- Implemented predictive modeling and deployed a multi-language pipeline with Gradio and RAG, creating a profitable and cost-effective chatbot that supports new features, drives competitive advantage, and enables profitable growth through improved user engagement.
+- Optimized each component of the chatbot for speed in real-time applications using techniques like semaphore, threadpool manager, and batching.
+  
 ### NLP Multilingual Teacher Assistant Chatbot
 ![Pipeline](/assets/4957A332-F9E6-43AC-887E-43E3C30D907B.jpeg)
 
